@@ -1,3 +1,3 @@
 # rspack-vue3-template
 
-rspack vue3 模板，用于构建rust WebAssembly 模板
+一个Rspack Vue3模板
